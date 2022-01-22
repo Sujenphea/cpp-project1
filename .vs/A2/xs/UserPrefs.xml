@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{F72C3B9C-40DA-4E6C-9F63-BD1825F1E5D4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/StaffController.cs">
+    <Files>
+      <File FileName="Controllers/StaffController.cs" Line="58" Column="1" />
+      <File FileName="Data/MyDBContext.cs" Line="21" Column="1" />
+      <File FileName="Data/DBWebAPIRepo.cs" Line="1" Column="1" />
+      <File FileName="Models/User.cs" Line="8" Column="6" />
+      <File FileName="Data/IWebAPIRepo.cs" Line="11" Column="66" />
+      <File FileName="Models/Order.cs" Line="6" Column="6" />
+      <File FileName="DTO/OrderInDTO.cs" Line="6" Column="18" />
+      <File FileName="DTO/SingleOrderInDTO.cs" Line="6" Column="24" />
+      <File FileName="Models/Product.cs" Line="1" Column="1" />
+      <File FileName="appsettings.json" Line="1" Column="1" />
+      <File FileName="appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="Startup.cs" Line="1" Column="1" />
+      <File FileName="Properties/launchSettings.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="A2" expanded="True">
+            <Node name="A2" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="DTO" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.A2 PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
